@@ -1,0 +1,45 @@
+Input size :10
+Time elapsed by bubble_sort : 0.0
+Time elapsed by merge_sort : 0.0
+Time elapsed by quick_sort : 0.0
+Time elapsed by memoryoptimisedquick_sort : 0.0
+Time elapsed by radix_sort : 0.0
+
+
+Input size :100
+Time elapsed by bubble_sort : 0.0
+Time elapsed by merge_sort : 0.0
+Time elapsed by quick_sort : 0.0
+Time elapsed by memoryoptimisedquick_sort : 0.0
+Time elapsed by radix_sort : 0.0
+
+
+Input size :1000
+Time elapsed by bubble_sort : 0.09375
+Time elapsed by merge_sort : 0.0
+Time elapsed by quick_sort : 0.0
+Time elapsed by memoryoptimisedquick_sort : 0.015625
+Time elapsed by radix_sort : 0.0
+
+
+Input size :10000
+Time elapsed by bubble_sort : 11.140625
+Time elapsed by merge_sort : 0.03125
+Time elapsed by quick_sort : 0.015625
+Time elapsed by memoryoptimisedquick_sort : 0.0625
+Time elapsed by radix_sort : 0.03125
+
+
+Input size :100000
+Time elapsed by bubble_sort : Out of Competition
+Time elapsed by merge_sort : 1.578125
+Time elapsed by quick_sort : 0.453125
+Time elapsed by memoryoptimisedquick_sort : 0.5
+Time elapsed by radix_sort : 0.34375
+
+Input size :1000000
+Time elapsed by bubble_sort : Out of Competition
+Time elapsed by merge_sort : 266.203125
+Time elapsed by quick_sort : 15.34375
+Time elapsed by memoryoptimisedquick_sort : 6.84375
+Time elapsed by radix_sort : 4.734375
