@@ -1,0 +1,4 @@
+Hello World my name is Aditya
+I am 21 years old
+This is a sample input file to
+learn python file handling
